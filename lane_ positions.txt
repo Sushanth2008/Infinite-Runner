@@ -1,0 +1,5 @@
+1st column=displayWidth/6
+
+2nd column=displayWidth/2
+
+3rd column=(displayWidth/3)+(displayWidth/2)
