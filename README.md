@@ -1,2 +1,2 @@
-# p5.play-boilerplate
+# Infinite Runner
 Boiler plate for p5.play
